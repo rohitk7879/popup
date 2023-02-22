@@ -1,0 +1,43 @@
+.popup{
+    
+    background-color: white;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: 0.9;
+}
+.inner-popup{
+    width: 600px;
+    height: 200px;
+    background-color:antiquewhite;
+    color:black;
+    padding: 20px;
+    margin:auto;
+    margin-top: 150px;
+    border-radius: 10px;
+    z-index: 1; 
+    
+}
+.cont{
+    text-align: center;
+}
+.btn{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    background-color: red;
+    font-size:larger;
+    border: 0px;
+    padding: 5px;
+    border-radius: 4px;
+    
+    
+
+}
+.i{
+    color:darkgoldenrod;
+    font-size:larger;
+    font-weight: 800;
+    
+}
